@@ -1,26 +1,28 @@
 # 👷 Manpower Supply Management
 
-A web-based Manpower Supply Management System developed to streamline workforce operations by managing employees, client requests, and manpower allocation through an intuitive and responsive interface.
+A web-based **Manpower Supply Management System** developed to streamline workforce operations by managing employees, client requests, and manpower allocation through a modern and responsive interface.
 
 ---
 
 ## 📖 About the Project
 
-The **Manpower Supply Management** application is designed to simplify the day-to-day operations of manpower supply agencies. It enables organizations to organize employee information, manage client requirements, and efficiently allocate workers to different projects.
+The **Manpower Supply Management** application is designed to simplify the daily operations of manpower supply agencies. It enables organizations to efficiently manage employee records, client requirements, and workforce allocation through a centralized platform.
 
-The system focuses on improving operational efficiency, reducing manual record-keeping, and providing a centralized platform for workforce management.
+The project aims to improve operational efficiency, reduce manual work, and provide an easy-to-use solution for manpower management.
 
+---
 
 ## ✨ Key Features
 
-- 👨‍💼 Employee Information Management
-- 🏢 Client Details Management
-- 📋 Manpower Allocation
-- 📞 Contact and Service Information
-- 🌐 Responsive User Interface
-- ⚡ Fast and Easy Navigation
+- 👨‍💼 Employee Management
+- 🏢 Client Management
+- 📋 Workforce Allocation
+- 📞 Contact Information
+- 🌐 Responsive Web Design
+- ⚡ User-Friendly Interface
+- 📱 Mobile-Friendly Layout
 
-
+---
 
 ## 🛠 Technologies Used
 
@@ -29,61 +31,90 @@ The system focuses on improving operational efficiency, reducing manual record-k
 - JavaScript
 - SVG Icons
 
+---
 
 ## 📂 Project Structure
 
+```text
 Manpower-Supply-Management/
-│── index.html
-│── style.css
-│── script.js
-│── icons.svg
+├── index.html
+├── style.css
+├── script.js
+├── icons.svg
+├── home.png
+├── about.png
+├── services.png
+├── contact.png
+└── README.md
 ```
 
-
+---
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Monishaksiva/Manpower-Supply-Management.git
 ```
 
-2. Open the project folder.
+### Run the Project
 
-3. Run the project by opening `index.html` in any modern web browser.
+1. Open the project folder.
+2. Open `index.html` in any modern web browser.
+3. Explore the application.
 
+---
 
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](home.png)
+
+### ℹ️ About Page
+
+![About Page](about.png)
+
+### 🛠 Services Page
+
+![Services Page](services.png)
+
+### 📞 Contact Page
+
+![Contact Page](contact.png)
+
+---
 
 ## 🎯 Project Objectives
 
-- Simplify manpower management processes.
-- Organize employee and client information.
-- Improve workforce allocation efficiency.
-- Provide a user-friendly web interface.
-- Reduce manual administrative work.
+- Simplify manpower management operations.
+- Organize employee and client records.
+- Improve workforce allocation.
+- Enhance operational efficiency.
+- Provide a responsive and intuitive user experience.
 
-
+---
 
 ## 💡 Future Enhancements
 
-- User Authentication
-- Admin Dashboard
-- Employee Attendance Tracking
-- Project Assignment Module
-- Database Integration
-- Report Generation
-- Email Notifications
+- 🔐 User Authentication
+- 👨‍💼 Admin Dashboard
+- 📊 Employee Attendance Tracking
+- 📅 Project Assignment Module
+- 🗄 Database Integration
+- 📈 Reports and Analytics
+- 📧 Email Notifications
 
+---
 
 ## 👩‍💻 Developed By
 
 **Monisha S**
 
-Computer Science and Engineering Student
+🎓 Computer Science and Engineering Student
 
 
+---
 
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
+⭐ If you like this project, consider giving it a **Star ⭐** on GitHub.
